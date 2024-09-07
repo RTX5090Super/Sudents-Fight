@@ -67,6 +67,6 @@ npm start
 
 ## 联系
 
-- 项目维护者：[你的名字](https://github.com/RTX5090)
+- 项目维护者：[RTX5090Super](https://github.com/RTX5090Super)
 - 电子邮件：[laoyuyuchengzhuo2011@outlook.com]
 
