@@ -69,4 +69,9 @@ npm start
 
 - 项目维护者：[RTX5090Super](https://github.com/RTX5090Super)
 - 电子邮件：[laoyuyuchengzhuo2011@outlook.com]
+## 特别鸣谢
+   - OpenAI
+   - MCreator
+   - MOJANG Studios
+   - Microsoft
 
