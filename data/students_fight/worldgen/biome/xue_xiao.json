@@ -1,0 +1,49 @@
+{
+  "has_precipitation": false,
+  "temperature": 1,
+  "downfall": 0,
+  "effects": {
+    "foliage_color": -16737536,
+    "grass_color": -16737536,
+    "sky_color": -3604480,
+    "fog_color": -3604480,
+    "water_color": -9630041,
+    "water_fog_color": -11190873
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "students_fight:teacher",
+        "weight": 20,
+        "minCount": 4,
+        "maxCount": 4
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "students_fight:xue_xiao_tree"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}
