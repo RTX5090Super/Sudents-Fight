@@ -54,7 +54,7 @@ npm start
 
 ## 许可证
 
-本项目使用 [GNU通用公共许可证 v3.0（GPL-3.0）](https://www.gnu.org/licenses/gpl-3.0.html)。这是一个自由软件许可证，允许用户自由使用、修改和分发软件，前提是所有基于该软件的派生作品也必须在GPL-3.0许可证下发布。
+本项目使用 GNU通用公共许可证 v3.0（GPL-3.0）,详情请参考[LICENSES]文件。(https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## 贡献
 
